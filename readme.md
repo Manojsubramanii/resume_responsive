@@ -24,9 +24,7 @@ This project is a fully responsive personal resume webpage built using HTML5, CS
 │ └── image.png.jpg
 ├── ss.jpg
 └── README.md
-## 📷 Preview
 
-![Resume Preview](assets/image.png.jpg) *(Update with actual screenshot of the site)*
 
 ## 📄 License
 
